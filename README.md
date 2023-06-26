@@ -1,2 +1,13 @@
 # eatnplay
 eat and play whatsapp web api creation
+
+# Deploy to Netlify
+Go to - https://app.netlify.com/teams/whatsapp-business-websites/overview
+> Add New Site
+> Import an Existing Project
+> Deploy with Github
+> Select your project
+> Deploy Site
+> Domain Settings
+> Options
+> Edit site name
